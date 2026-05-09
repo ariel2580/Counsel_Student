@@ -1,0 +1,6 @@
+{
+  "name": "마음토닥 AI - 청소년 심리상담",
+  "description": "청소년을 위한 따뜻하고 공감적인 심리상담 AI 챗봇입니다. 학업, 관계, 감정 등 다양한 고민을 함께 나누고 해결의 실마리를 찾습니다.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
